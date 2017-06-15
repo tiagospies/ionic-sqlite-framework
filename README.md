@@ -1,2 +1,4 @@
 # ionic-sqlite-framework
-Simple framework to basic operations in SQLite database.
+## Simple framework to basic operations in SQLite database.
+
+* Develop using **NgCordova**.
